@@ -1,0 +1,15 @@
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\bin\Debug\ZombieEditor.exe.config
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\bin\Debug\ZombieEditor.exe
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\bin\Debug\ZombieEditor.pdb
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.csprojResolveAssemblyReference.cache
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.Form1.resources
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.Properties.Resources.resources
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.csproj.GenerateResource.Cache
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.exe
+D:\Documents\bunkr\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.pdb
+D:\Documents\bunkr\game\bin\Windows\Debug\ZombieEditor\ZombieEditor\bin\Debug\ZombieEditor.exe.config
+D:\Documents\bunkr\game\bin\Windows\Debug\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.exe
+D:\Documents\bunkr\game\bin\Windows\Debug\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.pdb
+D:\Documents\testt\game\bin\Windows\Debug\ZombieEditor\ZombieEditor\bin\Debug\ZombieEditor.exe.config
+D:\Documents\testt\game\bin\Windows\Debug\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.exe
+D:\Documents\testt\game\bin\Windows\Debug\ZombieEditor\ZombieEditor\obj\Debug\ZombieEditor.pdb
